@@ -1,0 +1,74 @@
+.one{
+background-image: url(960x0.webp);
+height: 400px;
+color: azure;
+text-align:  center;
+
+}
+    .container{
+    display: flex;
+justify-content: center;
+    flex-wrap: wrap;
+    }
+        .tekst{
+            font-size: 15px;
+        }
+        .black{
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(to right, rgb(0, 0, 0) 50%, rgb(39, 16, 172) 50%);
+        }
+        .future{
+            color: white;
+        }
+        .m{
+            color: white;
+        }
+        .saba{
+height: 8rem;
+width: 13rem;
+        }
+            .the{
+                text-align: center;
+                font-size: 35px;
+
+
+            }
+               .car{
+                height: 15rem;
+                width: 12.5rem;
+
+               }
+               .live{
+                font-size: 20px;
+
+               }
+           
+               .car{
+                width: 20rem;
+                height: 20rem;
+            }
+            .car1{
+                width: auto;
+                height: 520px;
+            }
+        .daboloeba{
+            display: flex;
+            justify-content: center;
+        flex-wrap: wrap;
+        
+        }
+        .u-text{
+            font-size: 40px;
+            text-align: center;
+            font-family: helvetica;
+            font-weight: 800;
+            color: white;
+        }
+                .bolo{
+                    font-size: 23px;
+                    font-family: helvetica;
+                    text-align: center;
+                    color: aliceblue;
+                }
+              
